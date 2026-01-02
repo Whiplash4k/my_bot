@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>my_bot</name>
-  <version>0.0.0</version>
+  <version>0.0.1</version>
   <description>TODO: This is a robot ros2 package for a turtlebot with lidar</description>
   <maintainer email="niels.goris7@gmail.com">MY NAME</maintainer>
   <license>TODO: License declaration</license>
